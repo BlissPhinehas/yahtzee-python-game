@@ -61,4 +61,5 @@ A complete implementation of the classic Yahtzee dice game featuring all officia
 ```bash
 
 python pytzee.py
-
+# yahtzee-python-game
+Complete Yahtzee dice game implementation with scoring system
